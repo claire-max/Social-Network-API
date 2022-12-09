@@ -36,7 +36,7 @@ This challenge is to build an API for a social network web application where use
 
   
    
-  ![Alt Text](./)
+  ![Alt Text](./Social-Media-Network.gif)
 
   ## Questions?
   ### Reach me here: 
